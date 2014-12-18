@@ -1,0 +1,21 @@
+body {
+    background: #E9E9E9;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 18px;
+}
+.container {
+    width: 450px;
+    position: absolute;
+    left: 50%;
+    top: 30%;
+    background: white;
+    padding: 20px;
+    margin-left: -225px;
+    border-bottom: 1px solid #B9B9B9;
+}
+.message {
+    font-weight: bold;
+}
+.message2 {
+
+}
